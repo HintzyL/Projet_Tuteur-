@@ -7,6 +7,8 @@ public class Tetrominos {
     static  final  int XMAX = Main.XMAX;
     static final int YMAX = Main.YMAX;
     static final int SIZE = Main.SIZE;
+    
+    ihibibvbv
 
     Rectangle a;
     Rectangle b;
